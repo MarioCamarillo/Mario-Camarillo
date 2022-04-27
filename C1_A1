@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Something about me</title>
+</head>
+<body>
+    
+    <h1>My name is Mario Alberto Camarillo Ramos</h1>
+
+    <h2>I'm an Electronics Engineer from Mexicali's Techonlogical Institute.</h2>
+        <!--
+            I see, the <br> is used like an ENTER. Tought that by just pressing enter
+            here in the IDE it will automatically skipped to the next line. Good to know. 
+        -->
+
+        <!--
+            another mistake. Placed the </h2 and </h3 at the end of the sentence, that's why
+            it was all in bold.
+        -->
+        <p>
+        41 years old with a <mark><sup>wife</sup></mark> and a <b><mark><sub>daughter.</sub></mark></b>
+        </p>
+
+        <br>
+    
+
+    <h3>Almost forgot about this</h3>
+        <p>
+        Will see what this <i>ins</i> tag does in a bit:
+        <ins>I see, this is what it does</ins>, it underlines the text.
+        </p>
+   
+   
+   
+</body>
+</html>
